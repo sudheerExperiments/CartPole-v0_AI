@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/phantom/PycharmProjects/CartPole-v0_ai/data/sample.model"
+all_model_checkpoint_paths: "/home/phantom/PycharmProjects/CartPole-v0_ai/data/sample.model"
