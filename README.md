@@ -17,9 +17,9 @@ Make a folder data which stores saved models. A pre-trained '477 model' is inclu
 
 ## Train
 
-'''
+```
 python CartPole-v0.py
-'''
+```
 
 ## Using pre-trained model
 
